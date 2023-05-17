@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoon_rp=self.webpackChunkmoon_rp||[]).push([[125],{5750:e=>{e.exports=JSON.parse('{"title":"MoonRP","slug":"/category/moonrp","permalink":"/docs/category/moonrp","navigation":{"previous":{"title":"Regulamin","permalink":"/docs/regulamin"},"next":{"title":"Crime","permalink":"/docs/MoonRP/crime"}}}')}}]);
