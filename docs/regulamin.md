@@ -83,9 +83,6 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
  Wyjątkiem są organizacje przestępcze mające między sobą porachunki oraz czerwone strefy. Jeżeli okradany obywatel ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
 - 6.7 LSPD może wykorzystać maksymalnie 10 funkcjonariuszy policji do akcji RP. Nie podlega punktowi 6.10 oraz 6.22
 - 6.8 Gdy LSPD, obywatel lub członek grupy zorganizowanej w danej akcji polegnie, nie może wrócić do tej samej akcji oraz nikt nie może go zastąpić.
-
-
-
 - 6.9 Odbijanie osób zatrzymanych jest dozwolone tylko i wyłącznie podczas konwoju:
  Konwój ze szpitala na komendę ( 100 metrów od szpitala + 100 m od komendy )
  Konwój z komendy do więzienia ( 100 metrów od komendy + 100 m od więzienia)
@@ -101,7 +98,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.19 Okradanie LSPD jest dozwolone w momencie kiedy jest 6 LSPD na służbie przez osoby które brały udział w danej akcji. Okradamy dopiero po skończonej akcji. Jeżeli okradany FP ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
 - 6.20 Wymiana za zatrzymanego może się odbyć jedynie za funkcjonariusza LSPD który posiada stopień Oficera lub wyższy stopień.
 - 6.21 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
-- 6.22 Zobacz Zakładke Crime aby dowiedzieć się o limitach!
+- 6.22 Zobacz Tabele pod regulaminem aby zobaczyć limity!
 - 6.23 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
 - 6.24 Surowo zakazuję się używania usług znajdujących się w telefonie w celu porwania, rabunku czy innych tego typu rzeczy.
 - 6.25 Rozpoczęcie strzelaniny jest dopuszczalne dopiero po 5 minutowej akcji lub pościgu ( LSPD jak i obywatele ). Wyjątkiem odstąpienia od tej zasady jest przypadek w którym osoba jest poszukiwana przed LSPD i wtedy ten czas wynosi 2 minuty.
@@ -117,8 +114,6 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 7.4 Aby móc porwać EMS na napad musi być minimum 4 EMS na służbie. Jednak nie mogą oni odnieść żadnych obrażeń chyba że nie będą szanować swojego życia.  
 - 7.5 Aby porwać policjanta na służbie musi być minimum 4 innych policjantów czyli łącznie 5 LSPD. Wyjątkiem jest jeżeli policjant sam prowokuje do tego.
 - 7.6 Szpital jest jednym z ważniejszych miejsc na serwerze i należy szanować pracę lekarzy ( zachowując się kulturalnie i nie utrudniając pracy ) tyczy się to wszystkich osób przebywających na szpitalu. W momencie kiedy ktoś nie zastosuje się do tego podpunktu EMS lub LSPD ma prawo wyrzucić daną osobę i ukarać pieniężnie.
-
-
 - 7.7 Komenda policji jest również jednym z ważniejszych miejsc na serwerze i należy szanować pracę policji ( zachowując się kulturalnie i nie utrudniając im pracy) tyczy się to wszystkich osób przebywających na terenie komendy. W momencie kiedy ktoś nie zastosuje się do tego podpunktu LSPD ma prawo wyrzucić taką osobę i ukarać ją grzywną.
 - 7.8 Surowo zakazuje się noszenia umundurowania LSPD bądź EMS jeżeli nie należy się do którejś z frakcji.
 - 7.9 Obie frakcje podczas służby mają obowiązek nosić swoje mundury.
@@ -156,6 +151,7 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 
 
 ## 10. Organizacje:
+
 - 10.1 Dopuszcza się podszywania postaci pod członka organizacji publicznej jeśli wymaga tego akcja RP. Jednak, że nie można wystawiać fałszywych mandatów, faktur oraz nie można wymuszać danych osobowych.
 - 10.2 Wszelkie informacje z OOC nie mogą zostać użyte w IC i na odwrót.
 - 10.3 Administracja ma prawo do zmiany liderów frakcji i organizacji bez podania przyczyny.
@@ -172,6 +168,7 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 
 
 ## 11. Dodatkowe reguły:
+
 - 11.1 Ucieczka z więzienia będzie surowo karana.
 - 11.2 Zakazuję się rozmowy przez radio lub telefon będąc w wodzie.
 - 11.3 Z parkingu głównego możesz porwać obywatela lub funkcjonariusza tylko i wyłącznie jako zakładnika na napad czyli nie możesz ani go zabić ani okraść.
