@@ -22,7 +22,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/overextended/overextended.github.io/tree/main/',
+          editUrl: 'https://github.com/SilverMoonRP/silvermoonrp.github.io/tree/main/',
           showLastUpdateTime: true,
         },
         theme: {
