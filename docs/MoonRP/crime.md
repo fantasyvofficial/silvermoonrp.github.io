@@ -21,15 +21,17 @@ sidebar_position: 1
 
 ## Przydatne Informacje
 
-- Kokainium dodaje 100% armora po użyciu
-- Kokainium można zdobyć z więzienia lub wytorzyć w stole do craftu zakupionego w Darkshopie
-- Armor dodaje 85% armora
-- SNS pistol jest najtanszym ale najgorszym pistoletem na serwerze
-- 1 Blant dodaje 25% armora chyba że przerwiesz animacje
-- Gdy zakupisz pasywny armor w /gang otrzymujesz 1% armora na minutę
-- Policja może zacząć strzelać gdy zaczniesz celować do policjanta lub go poddawać
-- Strzał w głowe nie zabija na hita ale zadaje większe obrażenia
-- Vpn można nazwac używając go po nazwaniu na darkwebie oraz w wyścigach będzie podany twój nick 
+- Kokainium dodaje 100% armora po użyciu.
+- Kokainium można zdobyć z więzienia lub wytorzyć w stole do craftu zakupionego w Darkshopie.
+- Armor dodaje 85% armora.
+- SNS pistol jest najtanszym ale najgorszym pistoletem na serwerze.
+- 1 Blant dodaje 25% armora chyba że przerwiesz animacje.
+- Gdy zakupisz pasywny armor w /gang otrzymujesz 1% armora na minutę.
+- Przy zmianie pojazdu podczas pościgu policja strzeli ci w opony.
+- Policja może zacząć strzelać gdy zaczniesz celować do policjanta lub go poddawać.
+- Strzał w głowe nie zabija na hita ale zadaje większe obrażenia.
+- Vpn można nazwac używając go po nazwaniu na darkwebie oraz w wyścigach będzie podany twój nick.
+- Robienie wytrzymałośći na siłowni daje ci możliwość dłuższego biegania.
 
 :::tip
 Kokainium można użyć co 15min

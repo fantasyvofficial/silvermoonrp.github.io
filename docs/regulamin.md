@@ -4,9 +4,8 @@ sidebar_position: 1
 
 # Regulamin
 
-
-
 ## 1. Postanowienia ogólne:
+
 - 1.1 Rozpoczęcie gry na serwerze MoonRP jest jednoznaczne ze znajomością regulaminu oraz jego akceptacją.
 - 1.2 Wszystkie czyny które będą uznane za niedozwolone nawet jeżeli nie są zawarte w regulaminie będą karane. Administrator ma prawo ukarać bez konieczności podawania przyczyny.
 - 1.3 Regulamin może zostać zmodyfikowany.
@@ -15,8 +14,6 @@ sidebar_position: 1
 - 1.6 Zarząd ma prawo usunąć z serwera i discorda osoby które działają na ich niekorzyść bez żadnego wyjaśnienia.
 - 1.7 Serwer powstał abyśmy wspólnie spędzali czas poprzez zabawę i odgrywanie RP.
 - 1.8 Wszelkie konflikty i spory rozwiązujemy z szacunkiem do siebie.
-
-
 
 ## 2. Zasady ogólne:
 
@@ -34,7 +31,6 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 2.10 Zakazuję się używania p – word ów ( ped*ł ) , n – word ów ( nig*er ), c -word ów ( czar**ch, c**l itd ) oraz wszelakich słów obrażających odnośnie rasy, koloru skóry itp. Złamanie tej zasady będzie surowo karane.
 - 2.11 Zakazuję się stosowania Trash talku.
 
-
 ## 3. Komunikacja głosowa / narracja:
 
 - 3.1 Musisz posiadać sprawnie działający mikrofon, bez mikrofonu nie możesz uczestniczyć w rozgrywce.
@@ -48,8 +44,6 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 /me - opisuje czynności wykonywane przez naszą postać
 /do - opisuje stan otoczenia ( na /do nie można kłamać)
 
-
-
 ## 4. Rządowy / Discord:
 
 - 4.1 W momencie kiedy Administrator widzi łamanie zasad regulaminu ma prawo wezwać gracza na kanał discorda w celu wyjaśnienia sytuacji.
@@ -59,9 +53,6 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 4.4 Nick ze steama i discorda powinien być taki sam lub podobny.
 - 4.5 Zakazuję się przesiadywania na discordzie lub TS jeżeli aktualnie znajdujemy się na serwerze.
 
-
-
-
 ## 5. Postacie:
 
 - 5.1 Na naszym serwerze możesz posiadać dwie postacie. 
@@ -69,8 +60,6 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 5.3 Każda postać musi mieć realny wygląd.
 - 5.4 Zakazuje się odgrywania osób psychicznie chorych.
 - 5.5 Zakazuje się robienia dwuczłonowych imion oraz nazwisk. 
-
- 
 
 ## 6. Przestępstwa:
 
@@ -84,32 +73,29 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.7 Odbijanie osób zatrzymanych jest dozwolone tylko i wyłącznie podczas konwoju:
  Konwój ze szpitala na komendę ( 100 metrów od szpitala + 100 m od komendy )
  Konwój z komendy do więzienia ( 100 metrów od komendy + 100 m od więzienia)
-- 6.8 W odbiciu konwoju może brać udział maksymalnie: 10 odbijających, 11 LSPD. Aby konwój mógł się odbyć na służbie musi być minimalnie 5 funkcjonariuszy.
+- 6.8 W odbiciu konwoju może brać udział maksymalnie: 10 odbijających, 11 LSPD. Aby konwój mógł się odbyć na służbie musi być minimalnie 5 funkcjonariuszy chyba ze fp będzie chciało zrobić ci konwój.
 - 6.9 Zakazuje się okradania graczy zamyślonych, dopuszcza się kradzieży podczas akcji RP.
 - 6.10 Zezwala się na przeszukiwanie gracza kiedy jest żywy po uprzedniej inicjacji która musi zostać odegrana za pomocą komendy /me lub głosowo.
 - 6.11 Gang, cartel lub inna grupa przestępcza może wykorzystać maksymalnie 10 graczy do akcji RP.
 - 6.12 Do każdego napadu jest potrzebny co najmniej jeden zakładnik. Umożliwia się podstawienia zakładnika ( max 3 podstawionych ) ale musi to być 1:1 czyli jeżeli masz 2 porwanych zakładników to 2 możesz jeszcze podstawić.
-- 6.13 Zakazuje się porywania oraz zabijania pracowników którzy pracują w legalnej pracy np. piekarz w trakcie ich pracy.
-- 6.14 Gwałt jest zakazany.
-- 6.15 Maksymalnie dopuszczalna liczba osób sprzedających narkotyki w jednym rejonie wynosi 4 włącznie z osobami które ochraniają sprzedających.
-- 6.16 Zakazuje się odbijania osób rannych którymi zajmuje się LSPD lub EMS jak i rannych osób które są przewożone na szpital.
-- 6.17 Okradanie LSPD jest dozwolone w momencie kiedy jest 6 LSPD na służbie przez osoby które brały udział w danej akcji. Jeżeli okradany FP ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
-- 6.18 Wymiana za zatrzymanego może się odbyć jedynie za funkcjonariusza LSPD który posiada stopień Oficera lub wyższy stopień.
-- 6.19 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
-- 6.20 Zobacz Tabele pod regulaminem aby zobaczyć limity!
-- 6.21 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
-- 6.22 Rozpoczęcie strzelaniny jest dopuszczalne dopiero po 5 minutowej akcji lub pościgu ( LSPD jak i obywatele ). Wyjątkiem odstąpienia od tej zasady jest przypadek w którym osoba jest poszukiwana przed LSPD i wtedy ten czas wynosi 2 minuty.
-- 6.23 Gdy na słuzbie jest 2 policjantów to możesz wziąć tylko jedna osobe do pomocy czyli 1 do 1 z lspd
-- 6.24 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego
-
-
+- 6.13 Gwałt jest zakazany.
+- 6.14 Maksymalnie dopuszczalna liczba osób sprzedających narkotyki w jednym rejonie wynosi 4 włącznie z osobami które ochraniają sprzedających.
+- 6.15 Okradanie LSPD jest dozwolone w momencie kiedy jest 6 LSPD na służbie przez osoby które brały udział w danej akcji. Jeżeli okradany FP ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
+- 6.16 Wymiana za zatrzymanego może się odbyć jedynie za funkcjonariusza LSPD który posiada stopień Oficera lub wyższy stopień.
+- 6.17 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
+- 6.18 Zobacz Tabele pod regulaminem aby zobaczyć limity!
+- 6.19 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
+- 6.20 Rozpoczęcie strzelaniny jest dopuszczalne dopiero po 5 minutowej akcji lub pościgu ( LSPD jak i obywatele ). Wyjątkiem odstąpienia od tej zasady jest przypadek w którym osoba jest poszukiwana przed LSPD i wtedy ten czas wynosi 2 minuty.
+- 6.21 Gdy na słuzbie jest 2 policjantów to możesz wziąć tylko jedna osobe do pomocy czyli 1 do 1 z lspd
+- 6.22 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego
 
 ## 7. LSPD oraz EMS:
+
 - 7.1 Żaden z lekarzy ( EMS ) nie może być skorumpowany nawet poza służbą.
 - 7.2 Lekarze oraz funkcjonariusze nie mają prawa rozdawać swojego ekwipunku.
 A. Lekarz – bandaży, apteczek itp.
 B. Funkcjonariusz – pistoletów, tazerów itp.
-- 7.3 LSPD nie ma prawa zatrzymać obywatela/obywatelkę po BW jeżeli odrodziła się ona w szpitalu po minieciu danego czasu do wykrwawienia.
+- 7.3 LSPD nie ma prawa zatrzymać obywatela/obywatelkę po BW jeżeli odrodziła się ona w szpitalu poprzez wykrwawienie CZYLI NIE KLIK [E].
 - 7.4 Aby móc porwać EMS na napad musi być minimum 4 EMS na służbie. Jednak nie mogą oni odnieść żadnych obrażeń chyba że nie będą szanować swojego życia.  
 - 7.5 Aby porwać policjanta na służbie musi być minimum 4 innych policjantów czyli łącznie 5 LSPD. Wyjątkiem jest jeżeli policjant sam prowokuje do tego.
 - 7.6 Szpital jest jednym z ważniejszych miejsc na serwerze i należy szanować pracę lekarzy ( zachowując się kulturalnie i nie utrudniając pracy ) tyczy się to wszystkich osób przebywających na szpitalu. W momencie kiedy ktoś nie zastosuje się do tego podpunktu EMS lub LSPD ma prawo wyrzucić daną osobę i ukarać pieniężnie.
@@ -120,8 +106,6 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 7.11 Ramowanie podczas pościgu jest dopuszczalne dopiero po 5 min. od rozpoczęcia pościgu. W przypadku gdy osoba jest poszukiwana obowiązują 2 minuty lub w przypadku nałożenia kodu czarnego lub czerwonego na pojazd jest to dozwolone od momentu nałożenia kodu na pojazd.
 - 7.12 W momencie kiedy funkcjonariusz czuję się zagrożony ma prawo jako pierwszy oddać strzały w kierunku napastnika. Np. W momencie kiedy widzi stojącego obywatela z bronią długą w dłoni.
 - 7.13 Każdy gracz z chwilą zgłoszenia się na szpital bądź przewiezienia na szpital zobowiązany jest do odegrania całego medycznego RP z EMS aż do momentu wystawienia faktury przez EMS.
-
-
 
 ## 8. Rany postaci / Character Kill:
 
@@ -137,16 +121,14 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 9.1 Na serwerze nie obowiązuje FD. Masz prawo do tego by poruszać się sportowym pojazdem po terenie górzystym.
 - 9.2 Skoki kaskaderskie są dozwolone w granicach rozsądku.
 - 9.3 Pojazdy frakcyjne i dostępne w pracach z urzędu mogą być używane tylko do celów do których są przeznaczone.
-- 9.4 Surowo zakazuje się kradzieży pojazdów frakcyjnych (LSPD, EMS). Odstąpieniem od tej zasady jest rozbudowana akcja RP. 
+- 9.4 Zakazuje się kradzieży pojazdów frakcyjnych (LSPD, EMS). Odstąpieniem od tej zasady jest akcja RP (napady tymi samochodami skończą się zerwaniem negocjacji niezależnie od ilośći zakładników). 
 - 9.5 Przedmioty w ekwipunku postaci lub dowolnym miejscu przeznaczonym do ich przechowywania, są tam fizycznie w każdej sytuacji. Gracz nie może mówić że nie ma broni jeżeli znajduje się ona w ekwipunku. 
 - 9.6 Przedmioty oskryptowane nie mogą zostać odegrane na /me w przypadku braku ich posiadania. Nie można także ukrywać ich w najdziwniejszych miejscach na siłę przy pomocy narracji.
-- 9.7 Pojazdy które są używane nie zgodnie z regulaminem mogą zostać usunięte.
+- 9.7 Nie możesz wykorzystać przedmiotów które nie mają fizycznej oraz wizualnej interakcji czyli nie możesz zrobić: "/me przykłada szlifierke do gardła policjanta" itd.
 - 9.8 Zakazuje się celowego wskakiwania / wjeżdżania do wody pojazdem.
 - 9.9 Pojazdy które są używane nie zgodnie z regulaminem mogą zostać usunięte.
 - 9.10 Pojazdy które zostaną wyciągnięte z garażu po tym jak LSPD zabierze je na parking policyjny bez uiszczenia opłaty za parking policyjny zostaną na stałe odebrane właścicielom.
 - 9.11 Wszystkie prace legalne wykonujemy tylko i wyłącznie pojazdami przypisanymi do wykonywania danej pracy.
-
-
 
 ## 10. Organizacje:
 
@@ -156,12 +138,11 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 10.4 Organizacje porządkowe mają prawo do PG w przypadkach skuwania, obezwładniania, prowadzenia oraz przeszukiwania osób,rozbierania ich jak i przeszukiwania budynków i pojazdów.
 - 10.5 Żadne nagrania z serwera które są na platformach nie mogą zostać użyte w IC.
 - 10.6 Możliwe jest wykorzystanie nagrania , które zostało zarejestrowane przez kamery dostępne na serwerze.
-- 10.7 Zorganizowana grupa przestępcza to taka której projekt został zaakceptowany na disc. Jeżeli nie max. osób współpracujących ze sobą to 4. Oczywiście grupa nie zaakceptowana nie ma prawa kontrolować narkotyków, pralni itp.
+- 10.7 Zorganizowana grupa przestępcza to taka której projekt został zaakceptowany na disc. Jeżeli nie max osób współpracujących ze sobą to 4.
 - 10.7.1 Za zorganizowaną grupę przestępcza uważa się grupę min. 3 osób a maks. 15 osób prowadzących nielegalną działalność.
 - 10.8 Gracz może posiadać tylko jedną postać która zajmuję się nielegalnymi interesami i należy do zorganizowanej grupy przestępczej.
 - 10.9 Zakazuje się zabijania funkcjonariuszy publicznych na służbie jeżeli nie jesteś poszukiwany oraz nie ma pościgu za tobą za ciężką zbrodnie.
 - 10.10 Za wybryki jednego członka organizacji odpowiada cała ekipa.
-
 
 ## 11. Dodatkowe reguły:
 
@@ -228,8 +209,6 @@ NOTORYCZNE VDM, CL, MG, PG, RDM mogą skutkować banem
 
 
 
-Regulamin napisany przez Administrację MoonRP.
-
 :::caution PAMIETAJ!
 
 Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
@@ -241,4 +220,8 @@ Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
 Gdy na słuzbie jest 2 policjantów to możesz wziąć tylko jedna osobe do pomocy czyli 1 do 1 z lspd
 
 :::
+
+Regulamin napisany przez Administrację MoonRP.
+
+
 
