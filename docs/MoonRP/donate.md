@@ -6,6 +6,12 @@ sidebar_position: 3
 - Dotacje można wpłacać tutaj [Tebex](https://mnm.tebex.io/package/5692481), [Paypal](https://www.paypal.com/paypalme/Korek7) lub [Blik](https://tipo.live/p/militarynekomaid)
 - Za dotacje można otrzymać różne nagrody
 
+
+
+| Nowości             |  Kwota    |  Informacje |
+|------------           |-----------|--------|
+| Stół do craftingu Broni|    50 zł  |    Stół sie psuje po 10 użyciach   |
+
 :::note po Donate
 zgloś się na [Ticket](https://discord.com/channels/818576305514741781/1018447393227817050/1018451362566131762) aby odebrać nagrodę
 :::
