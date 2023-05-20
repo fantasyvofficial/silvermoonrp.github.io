@@ -236,3 +236,9 @@ Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
 
 :::
 
+:::info
+
+Gdy na słuzbie jest 2 policjantów to możesz wziąć tylko jedna osobe do pomocy czyli 1 do 1 z lspd
+
+:::
+
