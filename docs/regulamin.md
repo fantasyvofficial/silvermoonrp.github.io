@@ -67,7 +67,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.3 Nie można wymusić na obywatelu przepisania swojego pojazdu lub oddania wszystkich swoich pieniędzy.
 - 6.4 Zakazuje się porywania, okradania oraz zabijania obywateli gdy na służbie jest mniej niż 2 policjantów. 
  Wyjątkiem są organizacje przestępcze mające między sobą porachunki, czerwone strefy oraz akcje z policja np okradanie ciezarówki. Jeżeli okradany obywatel ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
-- 6.5 LSPD może wykorzystać maksymalnie 10 funkcjonariuszy policji do akcji RP. Nie podlega punktowi 6.10 oraz 6.22
+- 6.5 LSPD może wykorzystać maksymalnie 10 funkcjonariuszy policji do akcji RP. Nie podlega punktowi 6.8. Zorganizowana Grupa przestępcza może wykorzystać maksymalnie 10 graczy do akcji RP.
 - 6.6 Gdy LSPD, obywatel lub członek grupy zorganizowanej w danej akcji polegnie, nie może wrócić do tej samej akcji oraz nikt nie może go zastąpić.
 - 6.7 Odbijanie osób zatrzymanych jest dozwolone tylko i wyłącznie podczas konwoju:
  Konwój ze szpitala na komendę ( 100 metrów od szpitala + 100 m od komendy )
@@ -76,16 +76,15 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.8 W odbiciu konwoju może brać udział maksymalnie: 10 odbijających, 11 LSPD. Aby konwój mógł się odbyć na służbie musi być minimalnie 5 funkcjonariuszy chyba ze fp będzie chciało zrobić ci konwój.
 - 6.9 Zakazuje się okradania graczy zamyślonych, dopuszcza się kradzieży podczas akcji RP.
 - 6.10 Zezwala się na przeszukiwanie gracza kiedy jest żywy po uprzedniej inicjacji która musi zostać odegrana za pomocą komendy /me lub głosowo.
-- 6.11 Gang, cartel lub inna grupa przestępcza może wykorzystać maksymalnie 10 graczy do akcji RP.
-- 6.12 Do każdego napadu jest potrzebny co najmniej jeden zakładnik. Umożliwia się podstawienia zakładnika ( max 3 podstawionych ) ale musi to być 1:1 czyli jeżeli masz 2 porwanych zakładników to 2 możesz jeszcze podstawić.
-- 6.13 Gwałt jest zakazany.
-- 6.14 Okradanie LSPD jest dozwolone w momencie kiedy jest 6 LSPD na służbie przez osoby które brały udział w danej akcji. Jeżeli okradany FP ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
-- 6.15 Wymiana za zatrzymanego może się odbyć jedynie za funkcjonariusza LSPD który posiada stopień Oficera lub wyższy stopień.
-- 6.16 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
-- 6.17 W przypadku sytuacji w której odbywa się napad a nie zostały jeszcze podjęte żadne negocjacje z LSPD to napastnicy nie mają prawa opuścić terenu napadu. Chyba że minął podany czas. Zobacz Tabele!
-- 6.18 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
-- 6.19 Crime nie może prowokować policji większą grupą niz policjantów na służbie. Max 1 crime do 1 LSPD. Chyba że policja prowokuję.
-- 6.20 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego.
+- 6.11 Do każdego napadu jest potrzebny co najmniej jeden zakładnik. Umożliwia się podstawienia zakładnika ( max 3 podstawionych ) ale musi to być 1:1 czyli jeżeli masz 2 porwanych zakładników to 2 możesz jeszcze podstawić.
+- 6.12 Gwałt jest zakazany.
+- 6.13 Okradanie LSPD jest dozwolone w momencie kiedy jest 6 LSPD na służbie przez osoby które brały udział w danej akcji. Jeżeli okradany FP ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
+- 6.14 Wymiana za zatrzymanego może się odbyć jedynie za funkcjonariusza LSPD który posiada stopień Oficera lub wyższy stopień.
+- 6.15 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
+- 6.16 W przypadku sytuacji w której odbywa się napad a nie zostały jeszcze podjęte żadne negocjacje z LSPD to napastnicy nie mają prawa opuścić terenu napadu. Chyba że minął podany czas. Zobacz Tabele!
+- 6.17 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
+- 6.18 Crime nie może prowokować policji większą grupą niz policjantów na służbie. Max 1 crime do 1 LSPD. Chyba że policja prowokuję.
+- 6.19 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego.
 
 | Limity     |  Crime |   LSPD   | Czas oczekiwania na LSPD |
 |------------|--------|----------|-------|
