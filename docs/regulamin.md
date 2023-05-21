@@ -23,13 +23,12 @@ sidebar_position: 1
 - 2.4 Zmiany wyglądu odnośnie rysów twarzy oraz zmiany dotyczące danych osobowych muszą zostać uzgodnione z Administracją serwera.
 - 2.5 Każde twoje wejście na serwer jest równoznaczne z wcieleniem się w swoją postać.
 - 2.5.1 Odgrywaj emocje które w realnym świecie towarzyszą ci podczas sytuacji w których się znajdujesz. Np przerażenie, zdenerwowanie itp.
-- 2.6 Zakazuję się wmieszania w akcję RolePlay osób które nie mają z daną akcją nic wspólnego chyba że sytuacja tego wymaga.
-- 2.7 Aby otrzymać "revive" gdy nie ma EMS na służbie należy odegrać Panią Basie w szpitalu. W innym przypadku nie otrzymasz revive! 
-- 2.8 Nieprawidłowe używanie chatu LOC OOC oraz jego nadużywanie będzie karane banem.
+- 2.6 Aby otrzymać "revive" gdy nie ma EMS na służbie należy odegrać Panią Basie w szpitalu. W innym przypadku nie otrzymasz revive! 
+- 2.7 Nieprawidłowe używanie chatu LOC OOC oraz jego nadużywanie będzie karane banem.
 Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potraficie strzelać.
-- 2.9 Nagminne oraz nieprawidłowe użycie „ Z” będzie karane banem.
-- 2.10 Zakazuję się używania p – word ów ( ped*ł ) , n – word ów ( nig*er ), c -word ów ( czar**ch, c**l itd ) oraz wszelakich słów obrażających odnośnie rasy, koloru skóry itp. Złamanie tej zasady będzie surowo karane.
-- 2.11 Zakazuję się stosowania Trash talku.
+- 2.8 Nagminne oraz nieprawidłowe użycie „ Z” będzie karane banem.
+- 2.9 Zakazuję się używania p – word ów ( ped*ł ) , n – word ów ( nig*er ), c -word ów ( czar**ch, c**l itd ) oraz wszelakich słów obrażających odnośnie rasy, koloru skóry itp. Złamanie tej zasady będzie surowo karane.
+- 2.10 Zakazuję się stosowania Trash talku.
 
 ## 3. Komunikacja głosowa / narracja:
 
@@ -67,11 +66,12 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.2 Odbijanie osób na szpitalu lub komendzie jest zabronione chyba, że akcja odbijania rozpoczęła się wcześniej.
 - 6.3 Nie można wymusić na obywatelu przepisania swojego pojazdu lub oddania wszystkich swoich pieniędzy.
 - 6.4 Zakazuje się porywania, okradania oraz zabijania obywateli gdy na służbie jest mniej niż 2 policjantów. 
- Wyjątkiem są organizacje przestępcze mające między sobą porachunki oraz czerwone strefy. Jeżeli okradany obywatel ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
+ Wyjątkiem są organizacje przestępcze mające między sobą porachunki, czerwone strefy oraz akcje z policja np okradanie ciezarówki. Jeżeli okradany obywatel ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
 - 6.5 LSPD może wykorzystać maksymalnie 10 funkcjonariuszy policji do akcji RP. Nie podlega punktowi 6.10 oraz 6.22
 - 6.6 Gdy LSPD, obywatel lub członek grupy zorganizowanej w danej akcji polegnie, nie może wrócić do tej samej akcji oraz nikt nie może go zastąpić.
 - 6.7 Odbijanie osób zatrzymanych jest dozwolone tylko i wyłącznie podczas konwoju:
  Konwój ze szpitala na komendę ( 100 metrów od szpitala + 100 m od komendy )
+ Konwój na komendę ( 100 m od komendy )
  Konwój z komendy do więzienia ( 100 metrów od komendy + 100 m od więzienia)
 - 6.8 W odbiciu konwoju może brać udział maksymalnie: 10 odbijających, 11 LSPD. Aby konwój mógł się odbyć na służbie musi być minimalnie 5 funkcjonariuszy chyba ze fp będzie chciało zrobić ci konwój.
 - 6.9 Zakazuje się okradania graczy zamyślonych, dopuszcza się kradzieży podczas akcji RP.
@@ -85,9 +85,8 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.17 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
 - 6.18 Zobacz Tabele pod regulaminem aby zobaczyć limity!
 - 6.19 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
-- 6.20 Rozpoczęcie strzelaniny jest dopuszczalne dopiero po 5 minutowej akcji lub pościgu ( LSPD jak i obywatele ). Wyjątkiem odstąpienia od tej zasady jest przypadek w którym osoba jest poszukiwana przed LSPD i wtedy ten czas wynosi 2 minuty.
-- 6.21 Gdy na słuzbie jest 2 policjantów to możesz wziąć tylko jedna osobe do pomocy czyli 1 do 1 z lspd
-- 6.22 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego
+- 6.20 Gdy na słuzbie jest 2 policjantów to możesz wziąć tylko jedna osobe do pomocy czyli 1 do 1 z lspd
+- 6.21 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego
 
 ## 7. LSPD oraz EMS:
 
@@ -120,15 +119,14 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 
 - 9.1 Na serwerze nie obowiązuje FD. Masz prawo do tego by poruszać się sportowym pojazdem po terenie górzystym.
 - 9.2 Skoki kaskaderskie są dozwolone w granicach rozsądku.
-- 9.3 Pojazdy frakcyjne i dostępne w pracach z urzędu mogą być używane tylko do celów do których są przeznaczone.
-- 9.4 Zakazuje się kradzieży pojazdów frakcyjnych (LSPD, EMS). Odstąpieniem od tej zasady jest akcja RP (napady tymi samochodami skończą się zerwaniem negocjacji niezależnie od ilośći zakładników). 
-- 9.5 Przedmioty w ekwipunku postaci lub dowolnym miejscu przeznaczonym do ich przechowywania, są tam fizycznie w każdej sytuacji. Gracz nie może mówić że nie ma broni jeżeli znajduje się ona w ekwipunku. 
-- 9.6 Przedmioty oskryptowane nie mogą zostać odegrane na /me w przypadku braku ich posiadania. Nie można także ukrywać ich w najdziwniejszych miejscach na siłę przy pomocy narracji.
-- 9.7 Nie możesz wykorzystać przedmiotów które nie mają fizycznej oraz wizualnej interakcji czyli nie możesz zrobić: "/me przykłada szlifierke do gardła policjanta" itd.
-- 9.8 Zakazuje się celowego wskakiwania / wjeżdżania do wody pojazdem.
-- 9.9 Pojazdy które są używane nie zgodnie z regulaminem mogą zostać usunięte.
-- 9.10 Pojazdy które zostaną wyciągnięte z garażu po tym jak LSPD zabierze je na parking policyjny bez uiszczenia opłaty za parking policyjny zostaną na stałe odebrane właścicielom.
-- 9.11 Wszystkie prace legalne wykonujemy tylko i wyłącznie pojazdami przypisanymi do wykonywania danej pracy.
+- 9.3 Zakazuje się kradzieży pojazdów frakcyjnych (LSPD, EMS). Odstąpieniem od tej zasady jest akcja RP (napady tymi samochodami skończą się zerwaniem negocjacji niezależnie od ilośći zakładników). 
+- 9.4 Przedmioty w ekwipunku postaci lub dowolnym miejscu przeznaczonym do ich przechowywania, są tam fizycznie w każdej sytuacji. 
+- 9.5 Przedmioty oskryptowane nie mogą zostać odegrane na /me w przypadku braku ich posiadania. Nie można także ukrywać ich w najdziwniejszych miejscach na siłę przy pomocy narracji.
+- 9.6 Nie możesz wykorzystać przedmiotów które nie mają fizycznej oraz wizualnej interakcji czyli nie możesz zrobić: "/me przykłada szlifierke do gardła policjanta" itd.
+- 9.7 Zakazuje się celowego wskakiwania / wjeżdżania do wody pojazdem.
+- 9.8 Pojazdy które są używane nie zgodnie z regulaminem mogą zostać usunięte.
+- 9.9 Pojazdy które zostaną wyciągnięte z garażu po tym jak LSPD zabierze je na parking policyjny bez uiszczenia opłaty za parking policyjny zostaną na stałe odebrane właścicielom.
+- 9.10 Wszystkie prace legalne wykonujemy tylko i wyłącznie pojazdami przypisanymi do wykonywania danej pracy.
 
 ## 10. Organizacje:
 
@@ -140,7 +138,7 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 10.6 Możliwe jest wykorzystanie nagrania , które zostało zarejestrowane przez kamery dostępne na serwerze.
 - 10.7 Zorganizowana grupa przestępcza to taka której projekt został zaakceptowany na disc. Jeżeli nie max osób współpracujących ze sobą to 4.
 - 10.7.1 Za zorganizowaną grupę przestępcza uważa się grupę min. 3 osób a maks. 15 osób prowadzących nielegalną działalność.
-- 10.8 Gracz może posiadać tylko jedną postać która zajmuję się nielegalnymi interesami i należy do zorganizowanej grupy przestępczej.
+- 10.8 Gracz może posiadać tylko jedną postać która zajmuję się nielegalnymi interesami i/lub należy do zorganizowanej grupy przestępczej.
 - 10.9 Zakazuje się zabijania funkcjonariuszy publicznych na służbie jeżeli nie jesteś poszukiwany oraz nie ma pościgu za tobą za ciężką zbrodnie.
 - 10.10 Za wybryki jednego członka organizacji odpowiada cała ekipa.
 

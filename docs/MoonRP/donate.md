@@ -6,11 +6,14 @@ sidebar_position: 3
 - Dotacje można wpłacać tutaj [Tebex](https://mnm.tebex.io/package/5692481), [Paypal](https://www.paypal.com/paypalme/Korek7) lub [Blik](https://tipo.live/p/militarynekomaid)
 - Za dotacje można otrzymać różne nagrody
 
-
+:::info Promocja
+Kup 10 skrzynek dostań 2 gratis
+:::
 
 | Nowości             |  Kwota    |  Informacje |
 |------------           |-----------|--------|
 | Stół do craftingu Broni|    50 zł  |    Stół sie psuje po 10 użyciach   |
+| Custom malowanie do pojazdu|    +100 zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
 
 :::note po Donate
 zgloś się na [Ticket](https://discord.com/channels/818576305514741781/1018447393227817050/1018451362566131762) aby odebrać nagrodę
@@ -20,8 +23,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 |------------           |-----------|--------|
 | Limitka               |    50 zł  |  |
 | Druga Limitka         |    100 zł |  |
-| Trzecia Limitka       |    200 zł |  |
-| Czwarta Limitka       |    400 zł |  |
+| Trzecia Limitka i kolejna| 200 zł |  |
 | Zamiana Limitki       |    40 zł  |  |
 | unban za cheat        |    200 zł |  |
 | unban z perma         |    70 zł  |  |
@@ -29,9 +31,6 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | unban 14dni           |    20 zł  |  |
 | unban 7dni            |    10 zł  |  |
 | MoonPass              |    50 zł  | Dodatkowe nagrody za wbijanie poziomu /moonpass |
-| VIP 7 dni             |    20 zł  | Podwójny Exp w MoonPass oraz zwykłym poziomie |
-| VIP 14 dni            |    40 zł  | Podwójny Exp w MoonPass oraz zwykłym poziomie |
-| VIP 30 dni            |    60 zł  | Podwójny Exp w MoonPass oraz zwykłym poziomie |
 | Custom rejestracja pojazdu|    20 zł  | Musi być 8 znaków spacja się również liczy|
 | Custom nummer telefonu|    20 zł  |  |
 | Custom dzwięk samochodu|    20 zł |  |
