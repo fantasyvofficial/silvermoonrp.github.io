@@ -21,7 +21,7 @@ sidebar_position: 1
 
 ## Przydatne Informacje
 
-- Kokainium dodaje 100% armora po użyciu.
+- Kokainium, adrenalina dodaje 100% armora po użyciu.
 - Kokainium można zdobyć z więzienia lub wytorzyć w stole do craftu zakupionego w Darkshopie.
 - Armor dodaje 85% armora.
 - SNS pistol jest najtanszym ale najgorszym pistoletem na serwerze.
@@ -34,5 +34,5 @@ sidebar_position: 1
 - Robienie wytrzymałośći na siłowni daje ci możliwość dłuższego biegania.
 
 :::tip
-Kokainium można użyć co 15min
+Kokainium, adrenalina można użyć co 15min
 :::
