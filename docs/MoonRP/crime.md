@@ -18,7 +18,6 @@ sidebar_position: 1
 | Napad na gruppe6      |    0      |    3   |1x Urzadzenie Do Hakowania, pojazd gruppe6|                        |
 | Ilość Narko           |  5-25     |    2   |Benzen, Norivn, Crack, Koka   |Zależnie od poziomu sprzedasz większą ilość narkotyków max 25lvl|
 
-
 ## Przydatne Informacje
 
 - Kokainium, adrenalina dodaje 100% armora po użyciu.

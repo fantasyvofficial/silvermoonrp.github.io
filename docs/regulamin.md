@@ -27,7 +27,7 @@ sidebar_position: 1
 - 2.7 Nieprawidłowe używanie chatu LOC OOC oraz jego nadużywanie będzie karane banem.
 Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potraficie strzelać.
 - 2.8 Nagminne oraz nieprawidłowe użycie „ Z” będzie karane banem.
-- 2.9 Zakazuję się używania p – word ów ( ped*ł ) , n – word ów ( nig*er ), c -word ów ( czar**ch, c**l itd ) oraz wszelakich słów obrażających odnośnie rasy, koloru skóry itp. Złamanie tej zasady będzie surowo karane.
+- 2.9 Zakazuję się używania p – wordów  `ped*ł`, n – wordów  `nig*er`, c - wordów `czar**ch`, `c**l` itd oraz wszelakich słów obrażających odnośnie rasy, koloru skóry itp. Złamanie tej zasady będzie surowo karane.
 - 2.10 Zakazuję się stosowania Trash talku.
 
 ## 3. Komunikacja głosowa / narracja:
@@ -50,12 +50,12 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 4.2 Zakazuję się nagrywania rozmów na kanałach discorda.
 - 4.3  Zwołanie rządowego jest możliwe dopiero po zakończeniu danej akcji RP. W przypadku oskarżenia innego gracza przez gracza należy przedstawić konkretne dowody w postaci screena lub filmiku.
 - 4.4 Nick ze steama i discorda powinien być taki sam lub podobny.
-- 4.5 Zakazuję się przesiadywania na discordzie lub TS jeżeli aktualnie znajdujemy się na serwerze.
+- 4.5 Zakazuję się komunikowania poza grą czyli na discordzie, TS lub innych komunikatorach jeżeli aktualnie znajdujemy się na serwerze.
 
 ## 5. Postacie:
 
-- 5.1 Na naszym serwerze możesz posiadać dwie postacie. 
-- 5.2 Zakazuje się używania imion i nazwisk sławnych osób, postaci z kreskówek lub filmów.
+- 5.1 Na naszym serwerze możesz posiadać dwie postacie / za dotacje można odblokować więcej.
+- 5.2 Zakazuje się używania imion i nazwisk sławnych osób.
 - 5.3 Każda postać musi mieć realny wygląd.
 - 5.4 Zakazuje się odgrywania osób psychicznie chorych.
 - 5.5 Zakazuje się robienia dwuczłonowych imion oraz nazwisk. 
@@ -204,6 +204,8 @@ NOTORYCZNE VDM, CL, MG, PG, RDM mogą skutkować banem
 | Pacyfik            |     4-7  |   3-6  |
 | Ammunation         |     4-7  |   3-6  |
 | Cyber              |     5-8  |   3-7  |
+| Narko              |     2-6  |   1-4  |
+| Kradzieże (`Ciężarówka`, `Kradzież Pojazdu`, `Bankomat`, `Obywatele`. `Itp`)|     2-6  |   1-4  |
 
 
 

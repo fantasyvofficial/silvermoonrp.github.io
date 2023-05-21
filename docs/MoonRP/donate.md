@@ -7,7 +7,7 @@ sidebar_position: 3
 - Za dotacje można otrzymać różne nagrody
 
 :::info Promocja
-Kup 10 skrzynek dostań 2 gratis
+Kup 5 skrzynek na raz dostań 1 gratis
 :::
 
 | Nowości             |  Kwota    |  Informacje |
@@ -40,7 +40,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Przeniesienie miejsca szafki|    20 zł  | Postawienie oraz Pierwsze przeniesienie jest darmowe! |
 | Stół do craftingu Broni|    50 zł  |    Stół sie psuje po 10 użyciach   |
 | Skrzynka Broni        |    25 zł  |`5x SNSPistol`, `5x Pistol`, `5x Glock`, `5x VintagePistol`,`5x HeavyPistol`, `5x Deagle`|
-| Skrzynka Import 1    |    25 zł  |`Drafter Wide Body`, `Wercedes-Denz CLS`, `BWw m4`, `McLaen P1`, `BWW M4 GTS`|
+| Skrzynka Import 1     |    25 zł  |`Drafter Wide Body`, `Wercedes-Denz CLS`, `BWw m4`, `McLaen P1`, `BWW M4 GTS`|
 | Skrzynka Import 2     |    25 zł  |`Wercedes AMG G65`, `Wercedes Denz McL`, `AuBi R8`, `Bissan 240SX`, `GTR RHD`|
 | Skrzynka Import 3     |    25 zł  |`Dentley Dentayga`, `Corvette c7`, `Wercedes AMG gtc`, `ToTota Supra MK4`, `Rerrari LB 488`|
 | Skrzynka Import 4     |    25 zł  |`Bissan Silvia s15`, `Elegy RH 7`, `YaWaha R6`,  `Kawagaki Ninja`, `Bissan Titan`|
