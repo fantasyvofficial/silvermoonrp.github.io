@@ -14,7 +14,7 @@ sidebar_position: 1
 | Jubiler               |    2      |   3    |             -                |Potrzebne **180Kg** wagi|
 | Pacyfic               |    2      |   4    |3x Thermite, 2x Czarna Karta  |Potrzebne **45Kg** wagi |
 | Ammunation            |    0      |   4    |1x Thermite, 1x Urzadzenie Do Hakowania|               |
-| Cyber                 |    2     |   5    |1x Klucz dostępu                 |                        |
+| Cyber                 |    2     |   5    |1x Klucz dostępu               |                        |
 | Napad na gruppe6      |    0      |    3   |1x Urzadzenie Do Hakowania, pojazd gruppe6|                        |
 | Ilość Narko           |  5-25     |    2   |Benzen, Norivn, Crack, Koka   |Zależnie od poziomu sprzedasz większą ilość narkotyków max 25lvl|
 
