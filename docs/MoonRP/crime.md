@@ -29,7 +29,7 @@ sidebar_position: 1
 - Przy zmianie pojazdu podczas pościgu policja strzeli ci w opony.
 - Policja może zacząć strzelać gdy zaczniesz celować do policjanta lub go poddawać.
 - Strzał w głowe nie zabija na hita ale zadaje większe obrażenia.
-- Vpn można nazwac używając go po nazwaniu na darkwebie oraz w wyścigach będzie podany twój nick.
+- Vpn można nazwac używając go po nazwaniu na darkwebie oraz w wyścigach będzie podana nazwa która wpisałeś jeżeli posiadasz go w inventory.
 - Robienie wytrzymałośći na siłowni daje ci możliwość dłuższego biegania.
 
 :::tip
