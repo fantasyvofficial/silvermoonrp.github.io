@@ -11,7 +11,7 @@ Kup 5 skrzynek na raz dostań 1 gratis
 :::
 
 | Nowości             |  Kwota    |  Informacje |
-|------------           |-----------|--------|
+|------------         |-----------|--------|
 | Stół do craftingu Broni|    50 zł  |    Stół sie psuje po 10 użyciach   |
 | Custom malowanie do pojazdu|    100+ zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
 | Własna firma |    100+ zł  | Firma której nie ma na serwerze |
