@@ -82,22 +82,22 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.14 Okradanie LSPD jest dozwolone w momencie kiedy jest 6 LSPD na służbie przez osoby które brały udział w danej akcji. Jeżeli okradany FP ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
 - 6.15 Wymiana za zatrzymanego może się odbyć jedynie za funkcjonariusza LSPD który posiada stopień Oficera lub wyższy stopień.
 - 6.16 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
-- 6.17 Zobacz Tabele!
+- 6.17 W przypadku sytuacji w której odbywa się napad a nie zostały jeszcze podjęte żadne negocjacje z LSPD to napastnicy nie mają prawa opuścić terenu napadu. Chyba że minął podany czas. Zobacz Tabele!
 - 6.18 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
 - 6.19 Crime nie może prowokować policji większą grupą niz policjantów na służbie. Max 1 crime do 1 LSPD. Chyba że policja prowokuję.
 - 6.20 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego.
 
-| Limity             |  LSPD    |  Crime |
-|------------        |----------|--------|
-| Sklep              |     2-4  |   1-3  |
-| Fleeca             |     2-6  |   2-4  |
-| Gruppe6            |     3-6  |   1-6  |
-| Jubiler            |     3-6  |   2-6  |
-| Pacyfik            |     4-7  |   3-6  |
-| Ammunation         |     4-7  |   3-6  |
-| Cyber              |     5-8  |   3-7  |
-| Narko              |     2-6  |   1-4  |
-| Kradzieże (`Ciężarówka`, `Kradzież Pojazdu`, `Bankomat`, `Obywatele`. `Itp`)|     2-6  |   1-4  |
+| Limity             |  LSPD    |  Crime | Czas oczekiwania na LSPD |
+|------------        |----------|--------|-------|
+| Sklep              |     2-4  |   1-3  |   x   |
+| Gruppe6            |     3-6  |   1-6  |   x   |
+| Fleeca             |     2-6  |   2-4  | 40min |
+| Jubiler            |     3-6  |   2-6  | 40min |
+| Pacyfik            |     4-7  |   3-6  | 60min |
+| Ammunation         |     4-7  |   3-6  | 60min |
+| Cyber              |     5-8  |   3-7  | 80min |
+| Narko              |     2-6  |   1-4  |   x   |
+| Kradzieże (`Ciężarówka`, `Kradzież Pojazdu`, `Bankomat`, `Obywatele`. `Itp`)|     2-6  |   1-4  |  x  |
 
 :::caution PAMIETAJ!
 
@@ -122,7 +122,7 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 7.5 Aby porwać policjanta na służbie musi być minimum 4 innych policjantów czyli łącznie 5 LSPD. Wyjątkiem jest jeżeli policjant sam prowokuje do tego.
 - 7.6 Szpital jest jednym z ważniejszych miejsc na serwerze i należy szanować pracę lekarzy ( zachowując się kulturalnie i nie utrudniając pracy ) tyczy się to wszystkich osób przebywających na szpitalu. W momencie kiedy ktoś nie zastosuje się do tego podpunktu EMS lub LSPD ma prawo wyrzucić daną osobę i ukarać pieniężnie.
 - 7.7 Komenda policji jest również jednym z ważniejszych miejsc na serwerze i należy szanować pracę policji ( zachowując się kulturalnie i nie utrudniając im pracy) tyczy się to wszystkich osób przebywających na terenie komendy. W momencie kiedy ktoś nie zastosuje się do tego podpunktu LSPD ma prawo wyrzucić taką osobę i ukarać ją grzywną.
-- 7.8 Surowo zakazuje się noszenia umundurowania LSPD bądź EMS jeżeli nie jest to powiązane z żadna akcja Roleplay.
+- 7.8 Zakazuje się noszenia umundurowania LSPD bądź EMS jeżeli nie jest to powiązane z żadna akcja Roleplay.
 - 7.9 Obie frakcje podczas służby mają obowiązek nosić swoje mundury.
 - 7.10 Służby EMS nie operują osób w maskach. Każda osoba musi być rozpoznawalna.
 - 7.11 Ramowanie podczas pościgu jest dopuszczalne dopiero po 5 min. od rozpoczęcia pościgu. W przypadku gdy osoba jest poszukiwana obowiązują 2 minuty lub w przypadku nałożenia kodu czarnego lub czerwonego na pojazd jest to dozwolone od momentu nałożenia kodu na pojazd.
@@ -141,15 +141,12 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 ## 9. Pojazdy i przedmioty:
 
 - 9.1 Na serwerze nie obowiązuje FD. Masz prawo do tego by poruszać się sportowym pojazdem po terenie górzystym.
-- 9.2 Skoki kaskaderskie są dozwolone w granicach rozsądku.
-- 9.3 Zakazuje się kradzieży pojazdów frakcyjnych (LSPD, EMS). Odstąpieniem od tej zasady jest akcja RP (napady tymi samochodami skończą się zerwaniem negocjacji niezależnie od ilośći zakładników). 
-- 9.4 Przedmioty w ekwipunku postaci lub dowolnym miejscu przeznaczonym do ich przechowywania, są tam fizycznie w każdej sytuacji. 
-- 9.5 Przedmioty oskryptowane nie mogą zostać odegrane na /me w przypadku braku ich posiadania. Nie można także ukrywać ich w najdziwniejszych miejscach na siłę przy pomocy narracji.
-- 9.6 Nie możesz wykorzystać przedmiotów które nie mają fizycznej oraz wizualnej interakcji czyli nie możesz zrobić: "/me przykłada szlifierke do gardła policjanta" itd.
-- 9.7 Zakazuje się celowego wskakiwania / wjeżdżania do wody pojazdem.
-- 9.8 Pojazdy które są używane nie zgodnie z regulaminem mogą zostać usunięte.
-- 9.9 Pojazdy które zostaną wyciągnięte z garażu po tym jak LSPD zabierze je na parking policyjny bez uiszczenia opłaty za parking policyjny zostaną na stałe odebrane właścicielom.
-- 9.10 Wszystkie prace legalne wykonujemy tylko i wyłącznie pojazdami przypisanymi do wykonywania danej pracy.
+- 9.2 Zakazuje się kradzieży pojazdów frakcyjnych (LSPD, EMS). Odstąpieniem od tej zasady jest akcja RP (napady tymi samochodami skończą się zerwaniem negocjacji niezależnie od ilośći zakładników). 
+- 9.3 Przedmioty w ekwipunku postaci lub dowolnym miejscu przeznaczonym do ich przechowywania, są tam fizycznie w każdej sytuacji. 
+- 9.4 Przedmioty oskryptowane nie mogą zostać odegrane na /me w przypadku braku ich posiadania. Nie można także ukrywać ich w najdziwniejszych miejscach na siłę przy pomocy narracji.
+- 9.5 Nie możesz wykorzystać przedmiotów które nie mają fizycznej lub wizualnej interakcji czyli nie możesz zrobić: "/me przykłada szlifierke do gardła policjanta" itd.
+- 9.6 Pojazdy które są używane nie zgodnie z regulaminem mogą zostać usunięte.
+- 9.7 Pojazdy które zostaną wyciągnięte z garażu po tym jak LSPD zabierze je na parking policyjny bez uiszczenia opłaty za parking policyjny zostaną na stałe odebrane właścicielom.
 
 ## 10. Organizacje:
 
@@ -167,10 +164,7 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 
 ## 11. Dodatkowe reguły:
 
-- 11.1 Zakazuję się rozmowy przez radio lub telefon będąc w wodzie.
-- 11.2 Z parkingu głównego możesz porwać obywatela lub funkcjonariusza tylko i wyłącznie jako zakładnika na napad czyli nie możesz ani go zabić ani okraść.
-- 11.3 W przypadku sytuacji w której odbywa się napad a nie zostały jeszcze podjęte żadne negocjacje z LSPD to napastnicy nie mają prawa opuścić terenu napadu. 
-- 11.4 Administrator nie ma prawa wykorzystywania rangi w celu przewagi w grze.
+- 11.1 Administrator nie ma prawa wykorzystywania rangi w celu przewagi w grze.
 
 
 ## Zielone strefy, miejsca publiczne oraz czerwone strefy
