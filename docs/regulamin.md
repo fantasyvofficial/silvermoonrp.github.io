@@ -79,14 +79,36 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.11 Gang, cartel lub inna grupa przestępcza może wykorzystać maksymalnie 10 graczy do akcji RP.
 - 6.12 Do każdego napadu jest potrzebny co najmniej jeden zakładnik. Umożliwia się podstawienia zakładnika ( max 3 podstawionych ) ale musi to być 1:1 czyli jeżeli masz 2 porwanych zakładników to 2 możesz jeszcze podstawić.
 - 6.13 Gwałt jest zakazany.
-- 6.14 Maksymalnie dopuszczalna liczba osób sprzedających narkotyki w jednym rejonie wynosi 4 włącznie z osobami które ochraniają sprzedających.
-- 6.15 Okradanie LSPD jest dozwolone w momencie kiedy jest 6 LSPD na służbie przez osoby które brały udział w danej akcji. Jeżeli okradany FP ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
-- 6.16 Wymiana za zatrzymanego może się odbyć jedynie za funkcjonariusza LSPD który posiada stopień Oficera lub wyższy stopień.
-- 6.17 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
-- 6.18 Zobacz Tabele pod regulaminem aby zobaczyć limity!
-- 6.19 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
-- 6.20 Gdy na słuzbie jest 2 policjantów to możesz wziąć tylko jedna osobe do pomocy czyli 1 do 1 z lspd
-- 6.21 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego
+- 6.14 Okradanie LSPD jest dozwolone w momencie kiedy jest 6 LSPD na służbie przez osoby które brały udział w danej akcji. Jeżeli okradany FP ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
+- 6.15 Wymiana za zatrzymanego może się odbyć jedynie za funkcjonariusza LSPD który posiada stopień Oficera lub wyższy stopień.
+- 6.16 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
+- 6.17 Zobacz Tabele!
+- 6.18 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
+- 6.19 Gdy na słuzbie jest 2 policjantów to możesz wziąć tylko jedna osobe do pomocy czyli 1 do 1 z lspd
+- 6.20 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego
+
+| Limity             |  LSPD    |  Crime |
+|------------        |----------|--------|
+| Sklep              |     2-4  |   1-3  |
+| Fleeca             |     2-6  |   2-4  |
+| Gruppe6            |     3-6  |   1-6  |
+| Jubiler            |     3-6  |   2-6  |
+| Pacyfik            |     4-7  |   3-6  |
+| Ammunation         |     4-7  |   3-6  |
+| Cyber              |     5-8  |   3-7  |
+| Narko              |     2-6  |   1-4  |
+| Kradzieże (`Ciężarówka`, `Kradzież Pojazdu`, `Bankomat`, `Obywatele`. `Itp`)|     2-6  |   1-4  |
+:::caution PAMIETAJ!
+
+Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
+
+:::
+
+:::info
+
+Gdy na słuzbie jest 2 policjantów to możesz wziąć tylko jedna osobe do pomocy czyli 1 do 1 z lspd
+
+:::
 
 ## 7. LSPD oraz EMS:
 
@@ -191,33 +213,6 @@ Np. Jedziesz samochodem z prędkością 200 km/h, wyskakujesz ze wzniesienia lec
 :::danger PAMIETAJ!
 
 NOTORYCZNE VDM, CL, MG, PG, RDM mogą skutkować banem
-
-:::
-
-
-| Limity             |  LSPD    |  Crime |
-|------------        |----------|--------|
-| Sklep              |     2-4  |   1-3  |
-| Fleeca             |     2-6  |   2-4  |
-| Gruppe6            |     3-6  |   1-6  |
-| Jubiler            |     3-6  |   2-6  |
-| Pacyfik            |     4-7  |   3-6  |
-| Ammunation         |     4-7  |   3-6  |
-| Cyber              |     5-8  |   3-7  |
-| Narko              |     2-6  |   1-4  |
-| Kradzieże (`Ciężarówka`, `Kradzież Pojazdu`, `Bankomat`, `Obywatele`. `Itp`)|     2-6  |   1-4  |
-
-
-
-:::caution PAMIETAJ!
-
-Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
-
-:::
-
-:::info
-
-Gdy na słuzbie jest 2 policjantów to możesz wziąć tylko jedna osobe do pomocy czyli 1 do 1 z lspd
 
 :::
 
