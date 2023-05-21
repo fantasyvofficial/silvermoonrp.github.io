@@ -87,16 +87,16 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.19 Crime nie może prowokować policji większą grupą niz policjantów na służbie. Max 1 crime do 1 LSPD. Chyba że policja prowokuję.
 - 6.20 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego.
 
-| Limity             |   LSPD   |  Crime | Czas oczekiwania na LSPD |
-|------------        |----------|--------|-------|
-| Sklep              |    2-4   |   1-3  |   x   |
-| Gruppe6            |    3-6   |   1-6  |   x   |
-| Fleeca             |    2-6   |   2-4  | 40min |
-| Jubiler            |    3-6   |   2-6  | 40min |
-| Pacyfik            |    4-7   |   3-6  | 60min |
-| Ammunation         |    4-7   |   3-6  | 60min |
-| Cyber              |    5-8   |   3-7  | 80min |
-| Narko              |    2-6   |   1-4  |   x   |
+| Limity     |  Crime |   LSPD   | Czas oczekiwania na LSPD |
+|------------|--------|----------|-------|
+| Sklep      |   1-3  |    2-4   |   x   |
+| Gruppe6    |   1-6  |    3-6   |   x   |
+| Fleeca     |   2-4  |    2-6   | 40min |
+| Jubiler    |   2-6  |    3-6   | 40min |
+| Pacyfik    |   3-6  |    4-7   | 60min |
+| Ammunation |   3-6  |    4-7   | 60min |
+| Cyber      |   3-7  |    5-8   | 80min |
+| Narko      |   1-4  |    2-6   |   x   |
 | Kradzieże (`Ciężarówka`, `Kradzież Pojazdu`, `Bankomat`, `Obywatele`. `Itp`)|     2-6  |   1-4  |  x  |
 
 :::caution PAMIETAJ!
