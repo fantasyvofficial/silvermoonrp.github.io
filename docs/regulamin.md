@@ -84,8 +84,8 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.16 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
 - 6.17 Zobacz Tabele!
 - 6.18 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
-- 6.19 Gdy na słuzbie jest 2 policjantów to możesz wziąć tylko jedna osobe do pomocy czyli 1 do 1 z lspd
-- 6.20 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego
+- 6.19 Crime nie może prowokować policji większą grupą niz policjantów na służbie. Max 1 crime do 1 LSPD. Chyba że policja prowokuję.
+- 6.20 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego.
 
 | Limity             |  LSPD    |  Crime |
 |------------        |----------|--------|
@@ -98,6 +98,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 | Cyber              |     5-8  |   3-7  |
 | Narko              |     2-6  |   1-4  |
 | Kradzieże (`Ciężarówka`, `Kradzież Pojazdu`, `Bankomat`, `Obywatele`. `Itp`)|     2-6  |   1-4  |
+
 :::caution PAMIETAJ!
 
 Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
@@ -106,7 +107,7 @@ Niezorganizowana grupa może robić rzeczy tylko w max 4 osoby
 
 :::info
 
-Gdy na słuzbie jest 2 policjantów to możesz wziąć tylko jedna osobe do pomocy czyli 1 do 1 z lspd
+Crime nie może prowokować policji większą grupą niz policjantów na służbie. Max 1 crime do 1 LSPD. Chyba że policja prowokuję.
 
 :::
 
