@@ -96,7 +96,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 | Ammunation |   3-6  |    4-7   | 60min |
 | Cyber      |   3-7  |    5-8   | 80min |
 | Narko      |   1-4  |    2-6   |   x   |
-| Kradzieże (`Ciężarówka`, `Kradzież Pojazdu`, `Bankomat`, `Obywatele`. `Itp`)|     2-6  |   1-4  |  x  |
+| Kradzieże (`Ciężarówka`, `Kradzież Pojazdu`, `Bankomat`, `Obywatele`. `Itp`)|     1-4  |   2-6  |  x  |
 
 :::caution PAMIETAJ!
 
