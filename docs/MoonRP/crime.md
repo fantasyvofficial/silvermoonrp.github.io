@@ -21,7 +21,7 @@ sidebar_position: 1
 ## Przydatne Informacje
 
 - Kokainium, adrenalina dodaje 100% armora po użyciu.
-- Kokainium można zdobyć z więzienia lub wytorzyć w stole do craftu zakupionego w Darkshopie.
+- Kokainium można zdobyć z więzienia lub wytworzyć w stole do craftu zakupionego w Darkshopie.
 - Armor dodaje 85% armora.
 - SNS pistol jest najtanszym ale najgorszym pistoletem na serwerze.
 - 1 Blant dodaje 25% armora chyba że przerwiesz animacje.
