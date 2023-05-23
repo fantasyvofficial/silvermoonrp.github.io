@@ -18,6 +18,10 @@ sidebar_position: 1
 | Napad na gruppe6      |    0      |    3   |1x Urzadzenie Do Hakowania, pojazd gruppe6|                        |
 | Ilość Narko           |  5-25     |    2   |Benzen, Norivn, Crack, Koka   |Zależnie od poziomu sprzedasz większą ilość narkotyków max 25lvl|
 
+:::info
+Zobacz [Regulamin](../MoonRP/regulamin.md) podpunk 6 tabelke aby zobaczyć dokładne limity
+:::
+
 ## Przydatne Informacje
 
 - Kokainium, adrenalina dodaje 100% armora po użyciu.
