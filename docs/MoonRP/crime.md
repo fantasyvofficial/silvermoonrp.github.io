@@ -9,7 +9,7 @@ sidebar_position: 1
 | Cięzarówka            |     -     |   1    |Szlifierka                    |                        |
 | Bankomat              |     -     |   1    |  VPN                         |                        |
 | Sklep                 |    2      |   2    |   -                          |                        |
-| DarkShop              |    2      |   0    |        -                     |Aby wejść do dark shopu potrzebujesz 5 poziomu|
+| DarkShop              |    2      |   0    |        -                     |Aby wejść do dark shopu potrzebujesz 2 poziomu|
 | Fleeca                |    2      |   2    |2x Zielona Karta              |                        |
 | Jubiler               |    2      |   3    |             -                |Potrzebne **180Kg** wagi|
 | Pacyfic               |    2      |   4    |3x Thermite, 2x Czarna Karta  |Potrzebne **45Kg** wagi |
