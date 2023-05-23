@@ -57,7 +57,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Skrzynka S+      |    50 zł  |`Thrax`, `BWW m8`, `LamDorghini AventadBor`, `Dentley Continental 2017`, `Rerrari Pista Spider`|
 | Skrzynka Cardealer      |    10 zł  |Znizka na pojazd z cardealera od 10% do 25%|
 | Podniesienie limitki do klasy wyżej|    150 zł  |       |
-| Helikopter na własność      |    700 zł  |    + licencja   |
+| Helikopter na własność      |    500 zł  |    + licencja   |
 
 
 :::danger Pamiętaj
