@@ -15,7 +15,7 @@ Kup 5 skrzynek na raz dostań 1 gratis
 | Stół do craftingu Broni|    50 zł  |    Stół sie psuje po 10 użyciach   |
 | Custom malowanie do pojazdu|    100+ zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
 | Własna firma |    100+ zł  | Firma której nie ma na serwerze |
-| Interior |    200+ zł  | Cena Zależna od wielkości oraz optymalizacji interioru (interior dajesz ty) |
+| Interior |    200+ zł  | Cena Zależna od wielkości oraz optymalizacji interioru (interior dajesz ty)|
 
 :::note po Donate
 zgloś się na [Ticket](https://discord.com/channels/818576305514741781/1018447393227817050/1018451362566131762) aby odebrać nagrodę
