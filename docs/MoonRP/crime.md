@@ -19,7 +19,7 @@ sidebar_position: 1
 | Ilość Narko           |  5-25     |    2   |Benzen, Norivn, Crack, Koka   |Zależnie od poziomu sprzedasz większą ilość narkotyków max 25lvl|
 
 :::info
-Zobacz [Regulamin](../MoonRP/regulamin.md) podpunk 6 tabelke aby zobaczyć dokładne limity
+Zobacz Regulamin podpunk 6 tabelke aby zobaczyć dokładne limity
 :::
 
 ## Przydatne Informacje
