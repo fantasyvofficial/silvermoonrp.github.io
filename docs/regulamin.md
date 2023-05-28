@@ -78,7 +78,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.10 Zezwala się na przeszukiwanie gracza kiedy jest żywy po uprzedniej inicjacji która musi zostać odegrana za pomocą komendy /me lub głosowo.
 - 6.11 Do każdego napadu jest potrzebny co najmniej jeden zakładnik. Umożliwia się podstawienia zakładnika ( max 3 podstawionych ) ale musi to być 1:1 czyli jeżeli masz 2 porwanych zakładników to 2 możesz jeszcze podstawić.
 - 6.12 Gwałt jest zakazany.
-- 6.13 Okradanie LSPD jest dozwolone w momencie kiedy jest 6 LSPD na służbie przez osoby które brały udział w danej akcji. Jeżeli okradany FP ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
+- 6.13 Okradanie LSPD jest dozwolone w momencie kiedy jest 5 LSPD na służbie przez osoby które brały udział w danej akcji. Jeżeli okradany FP ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
 - 6.14 Wymiana za zatrzymanego może się odbyć jedynie za funkcjonariusza LSPD który posiada stopień Oficera lub wyższy stopień.
 - 6.15 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
 - 6.16 W przypadku sytuacji w której odbywa się napad a nie zostały jeszcze podjęte żadne negocjacje z LSPD to napastnicy nie mają prawa opuścić terenu napadu. Chyba że minął podany czas. Zobacz Tabele!
