@@ -16,6 +16,9 @@ Kup 5 skrzynek na raz dostań 1 gratis
 | Custom malowanie do pojazdu|    100+ zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
 | Własna firma |    100+ zł  | Firma której nie ma na serwerze |
 | Interior |    200+ zł  | Cena Zależna od wielkości oraz optymalizacji interioru (interior dajesz ty)|
+| Custom rejestracja pojazdu|    10 zł  | Musi być 8 znaków spacja się również liczy|
+| Custom nummer telefonu|    10 zł  |  |
+
 
 :::note po Donate
 zgloś się na [Ticket](https://discord.com/channels/818576305514741781/1018447393227817050/1018451362566131762) aby odebrać nagrodę
@@ -33,8 +36,6 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | unban 14dni           |    20 zł  |  |
 | unban 7dni            |    10 zł  |  |
 | MoonPass              |    50 zł  | Dodatkowe nagrody za wbijanie poziomu /moonpass |
-| Custom rejestracja pojazdu|    20 zł  | Musi być 8 znaków spacja się również liczy|
-| Custom nummer telefonu|    20 zł  |  |
 | Custom dzwięk samochodu|    20 zł |  |
 | Slot na postać|    20 zł          |  |
 | +100kg w szafce ORGANIZACJI|    20 zł  |  |
