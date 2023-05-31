@@ -18,6 +18,7 @@ Kup 5 skrzynek na raz dostań 1 gratis
 | Interior |    200+ zł  | Cena Zależna od wielkości oraz optymalizacji interioru (interior dajesz ty)|
 | [Promocja] Custom rejestracja pojazdu|    10 zł  | Musi być 8 znaków spacja się również liczy|
 | [Promocja] Custom nummer telefonu|    10 zł  |  |
+| Paczka SilverMoonRP|    1000 zł  |  |
 
 
 :::note po Donate
