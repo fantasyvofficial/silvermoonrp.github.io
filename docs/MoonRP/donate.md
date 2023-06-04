@@ -6,6 +6,9 @@ sidebar_position: 3
 - Dotacje można wpłacać tutaj [Tebex](https://mnm.tebex.io/package/5692481), [Paypal](https://www.paypal.com/paypalme/Korek7) lub [Blik](https://tipo.live/p/militarynekomaid)
 - Za dotacje można otrzymać różne nagrody
 
+:::info Promocja
+ [Vip](https://silvermoonrp.github.io/docs/MoonRP/info#vip-oraz-moonpass) 30 dni 50zł 
+:::
 
 | Nowości             |  Kwota    |  Informacje |
 |------------         |-----------|--------|
