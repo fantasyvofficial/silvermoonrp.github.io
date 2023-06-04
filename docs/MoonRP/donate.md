@@ -6,20 +6,14 @@ sidebar_position: 3
 - Dotacje można wpłacać tutaj [Tebex](https://mnm.tebex.io/package/5692481), [Paypal](https://www.paypal.com/paypalme/Korek7) lub [Blik](https://tipo.live/p/militarynekomaid)
 - Za dotacje można otrzymać różne nagrody
 
-:::info Promocja
-Kup 5 skrzynek na raz dostań 1 gratis
-:::
 
 | Nowości             |  Kwota    |  Informacje |
 |------------         |-----------|--------|
+| Własna szafka|    50 zł  |   szafka jak organizacyjna ale 150kg   |
 | Stół do Craftingu Dodatki|    50 zł  |   Dodatki do broni / Stół sie psuje po 10 użyciach   |
 | Stół do Craftingu Broni|    50 zł  |    Stół sie psuje po 10 użyciach   |
-| Custom malowanie do pojazdu|    100+ zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
-| Własna firma |    100+ zł  | Firma której nie ma na serwerze |
-| Interior |    200+ zł  | Cena Zależna od wielkości oraz optymalizacji interioru (interior dajesz ty)|
 | [Promocja] Custom rejestracja pojazdu|    10 zł  | Musi być 8 znaków spacja się również liczy|
 | [Promocja] Custom nummer telefonu|    10 zł  |  |
-| Paczka SilverMoonRP|    1000 zł  |  |
 
 
 :::note po Donate
@@ -63,7 +57,12 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Skrzynka S+      |    50 zł  |`Thrax`, `BWW m8`, `LamDorghini AventadBor`, `Dentley Continental 2017`, `Rerrari Pista Spider`|
 | Skrzynka Cardealer      |    10 zł  |Znizka na pojazd z cardealera od 10% do 25%|
 | Podniesienie limitki do klasy wyżej|    150 zł  |       |
+| Custom malowanie do pojazdu|    100+ zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
+| Własna firma |    100+ zł  | Firma której nie ma na serwerze |
+| Interior |    200+ zł  | Cena Zależna od wielkości oraz optymalizacji interioru (interior dajesz ty)|
 | Helikopter na własność      |    500 zł  |    + licencja   |
+| Paczka SilverMoonRP|    1000 zł  |  |
+
 
 
 :::danger Pamiętaj
