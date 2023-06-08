@@ -85,6 +85,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.17 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
 - 6.18 Crime nie może prowokować policji większą grupą niz policjantów na służbie. Max 1 crime do 1 LSPD. Chyba że policja prowokuję.
 - 6.19 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego.
+- 6.20 Gdy jedna grupa rozpoczeła odbijanie i sie nie udało nie mogą oni już być odbijani
 
 | Limity     |  Crime |   LSPD   | Czas oczekiwania na LSPD |
 |------------|--------|----------|-------|
@@ -127,6 +128,8 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 7.11 Ramowanie podczas pościgu jest dopuszczalne dopiero po 5 min. od rozpoczęcia pościgu. W przypadku gdy osoba jest poszukiwana obowiązują 2 minuty lub w przypadku nałożenia kodu czarnego lub czerwonego na pojazd jest to dozwolone od momentu nałożenia kodu na pojazd.
 - 7.12 W momencie kiedy funkcjonariusz czuję się zagrożony ma prawo jako pierwszy oddać strzały w kierunku napastnika. Np. W momencie kiedy widzi stojącego obywatela z bronią długą w dłoni.
 - 7.13 Każdy gracz z chwilą zgłoszenia się na szpital bądź przewiezienia na szpital zobowiązany jest do odegrania całego medycznego RP z EMS aż do momentu wystawienia faktury przez EMS.
+- 7.14 Gdy LSPD złapie jednego z przestępców musi poczekac minimalnie 5 minut zanim zabierze go na komende
+- 7.15 Gdy jest odbijanie zatrzymanego i nie stanie się nic przez 5 minut dopiero wtedy policja może uznać akcję za zakonczoną i zacząć zbierać poszkodowanych
 
 ## 8. Rany postaci / Character Kill:
 
