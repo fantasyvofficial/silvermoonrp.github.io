@@ -130,6 +130,7 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 7.13 Każdy gracz z chwilą zgłoszenia się na szpital bądź przewiezienia na szpital zobowiązany jest do odegrania całego medycznego RP z EMS aż do momentu wystawienia faktury przez EMS.
 - 7.14 Gdy LSPD złapie jednego z przestępców musi poczekac minimalnie 5 minut zanim zabierze go na komende
 - 7.15 Gdy jest odbijanie zatrzymanego i nie stanie się nic przez 5 minut dopiero wtedy policja może uznać akcję za zakonczoną i zacząć zbierać poszkodowanych
+- 7.16 Policja ma zakaz używania samochodu lokalnego do gonienia lub podjechania do osoby gonionej (jedynym wyjątkiem jest wzięcie lokalnego pojazdu do podjechania po radiowóz)
 
 ## 8. Rany postaci / Character Kill:
 
