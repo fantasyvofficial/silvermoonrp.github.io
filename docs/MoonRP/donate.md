@@ -25,10 +25,11 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 
 | Przedmiot             |  Kwota    |  Informacje |
 |------------           |-----------|--------|
-| Limitka               |    50 zł  |  |
-| Druga Limitka         |    100 zł |  |
-| Trzecia Limitka i kolejna| 200 zł |  |
-| Zamiana Limitki       |    40 zł  |  |
+| Limitka               |    50 zł  | w ciagu 5 dni na serwerze |
+| Druga Limitka         |    100 zł | w ciagu 5 dni na serwerze |
+| Trzecia Limitka i kolejna| 200 zł | w ciagu 5 dni na serwerze |
+| Zamiana Limitki       |    40 zł  | w ciagu 5 dni na serwerze |
+| Limitka szybciej      |    25 zł  | Gdy zakupisz limitke to masz ją w ciągu 24h na serwerze|
 | unban za cheat        |    200 zł |  |
 | unban z perma         |    70 zł  |  |
 | unban 30dni           |    30 zł  |  |
