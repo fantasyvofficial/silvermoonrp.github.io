@@ -59,6 +59,7 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Skrzynka S      |    40 zł  |`Elegy RH 7`, `Bissan GTR`, `BWW M4`, `Bissan Skyline R33`, `Wazda RX7`|
 | Skrzynka S+      |    50 zł  |`Thrax`, `BWW m8`, `LamDorghini AventadBor`, `Dentley Continental 2017`, `Rerrari Pista Spider`|
 | Skrzynka Cardealer      |    10 zł  |Znizka na pojazd z cardealera od 10% do 25%|
+| Awans w PD      |    30 zł  | 1 Ranga w góre|
 | Podniesienie limitki do klasy wyżej|    150 zł  |       |
 | Custom malowanie do pojazdu|    100+ zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
 | Własna firma |    100+ zł  | Firma której nie ma na serwerze |
