@@ -24,6 +24,8 @@ Poziomy na serwerze wbija się poprzez pracowanie legalnie, robienie misji lub n
 - Użycie /kajdanki 2 razy
 - Wyciaganie pojazdu z garazu jest za darmo
 - +10kg wagi
+- Staty na siłowni *2
+- Daily skrzynka
 
 ## Klasy pojazdów
 Na serwerze pojazdy są przypisane do customowych klas od D do S+
