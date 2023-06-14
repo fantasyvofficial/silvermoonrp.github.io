@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: '#3 Dontaor ΩMarcin46405Ω',
+    title: '#3 Dontaor Lilyungarctisek',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
