@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Dotacje
 
-- Dotacje można wpłacać tutaj [Tebex](https://mnm.tebex.io/package/5692481), [Paypal](https://www.paypal.com/paypalme/MilitaryNekoMaid) lub [Blik](https://tipo.live/p/militarynekomaid)
+- Dotacje można wpłacać tutaj [Tebex](https://mnm.tebex.io/package/5692481), [Paypal](https://www.paypal.com/paypalme/MilitaryNekoMaid1) lub [Blik](https://tipo.live/p/militarynekomaid)
 - Za dotacje można otrzymać różne nagrody
 
 :::info Promocja
