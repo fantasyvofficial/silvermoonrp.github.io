@@ -17,8 +17,8 @@ sidebar_position: 3
 | Stół do Craftingu Broni|    50 zł  |    Stół sie psuje po 10 użyciach   |
 | [Promocja] Custom rejestracja pojazdu|    10 zł  | Musi być 8 znaków spacja się również liczy|
 | [Promocja] Custom nummer telefonu|    10 zł  |  |
-| Skrzynka Broni dlugiej|    150 zł  | 2x broń długa `AKS`,`UZI`,`Flashbang`,`Micro SMG`,`AK47`,|
-| Skrzynka Broni dlugiej 2|    150 zł  | 2x broń długa `SMG`, `Gusenberg`, `Dwururka`, `Molotov`, `M4A1`|
+| Skrzynka Broni dlugiej|    150 zł  | 2x `AKS`,`UZI`,`Flashbang`,`Micro SMG`,`AK47`,|
+| Skrzynka Broni dlugiej 2|    150 zł  | 2x `SMG`, `Gusenberg`, `Dwururka`, `Molotov`, `M4A1`|
 
 
 
