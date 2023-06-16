@@ -19,6 +19,7 @@ sidebar_position: 3
 | [Promocja] Custom nummer telefonu|    10 zł  |  |
 | Skrzynka Broni dlugiej|    150 zł  | 2x `AKS`,`UZI`,`Flashbang`,`Micro SMG`,`AK47`,|
 | Skrzynka Broni dlugiej 2|    150 zł  | 2x `SMG`, `Gusenberg`, `Dwururka`, `Molotov`, `M4A1`|
+| Wnetrze domku|    10 zł  | Zmiana wnetrza domku|
 
 
 
