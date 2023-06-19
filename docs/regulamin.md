@@ -86,7 +86,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.18 Crime nie może prowokować policji większą grupą niz policjantów na służbie. Max 1 crime do 1 LSPD. Chyba że policja prowokuję.
 - 6.19 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego.
 - 6.20 Gdy jedna grupa rozpoczeła odbijanie i sie nie udało nie mogą oni już być odbijani
-- 6.21 Zakazuje się jednej ekipie robić dwuch napadów w tym samym czasie
+- 6.21 Zakazuje się jednej ekipie robić dwóch napadów w tym samym czasie
 
 | Limity     |  Crime |   LSPD   | Czas oczekiwania na LSPD |
 |------------|--------|----------|-------|
