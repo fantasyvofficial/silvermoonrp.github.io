@@ -16,7 +16,6 @@ sidebar_position: 1
 | Ammunation            |    0      |   4    |1x Thermite, 1x Urzadzenie Do Hakowania|               |
 | Cyber                 |    2     |   5    |1x Klucz dostępu               |                        |
 | Napad na gruppe6      |    0      |    3   |1x Urzadzenie Do Hakowania, pojazd gruppe6|                        |
-| Ilość Narko           |  5-25     |    2   |Benzen, Norivn, Crack, Koka   |Zależnie od poziomu sprzedasz większą ilość narkotyków max 25lvl|
 
 :::info
 Zobacz [Regulamin](../regulamin.md) podpunkt 6 tabelke aby zobaczyć dokładne limity
