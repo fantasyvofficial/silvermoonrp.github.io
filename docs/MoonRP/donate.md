@@ -7,7 +7,7 @@ sidebar_position: 3
 - Za dotacje można otrzymać różne nagrody
 
 :::info Promocja
- [Vip](https://silvermoonrp.github.io/docs/MoonRP/info#vip-oraz-moonpass) 30 dni 50zł 
+ Kup 2 skrzynki zapłać 10 zł mniej
 :::
 
 | Nowości             |  Kwota    |  Informacje |
