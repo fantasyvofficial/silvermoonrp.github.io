@@ -83,10 +83,11 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.15 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
 - 6.16 W przypadku sytuacji w której odbywa się napad a nie zostały jeszcze podjęte żadne negocjacje z LSPD to napastnicy nie mają prawa opuścić terenu napadu. Chyba że minął podany czas. Zobacz Tabele!
 - 6.17 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
-- 6.18 Crime nie może prowokować policji większą grupą niz policjantów na służbie. Max 1 crime do 1 LSPD. Chyba że policja prowokuję.
-- 6.19 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego.
-- 6.20 Gdy jedna grupa rozpoczeła odbijanie i sie nie udało nie mogą oni już być odbijani
-- 6.21 Zakazuje się jednej ekipie robić dwóch napadów w tym samym czasie
+- 6.18 Przeszukiwać można dopiero po skończonej akcji!
+- 6.19 Crime nie może prowokować policji większą grupą niz policjantów na służbie. Max 1 crime do 1 LSPD. Chyba że policja prowokuję.
+- 6.20 LSPD ma prawo oddać do ciebie strzały jeżeli zaczniesz celowac w strone FP, próbujesz porwać FP lub masz go poddanego.
+- 6.21 Gdy jedna grupa rozpoczeła odbijanie i sie nie udało nie mogą oni już być odbijani
+- 6.22 Zakazuje się jednej ekipie robić dwóch napadów w tym samym czasie
 
 | Limity     |  Crime |   LSPD   | Czas oczekiwania na LSPD |
 |------------|--------|----------|-------|
