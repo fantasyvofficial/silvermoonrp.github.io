@@ -12,7 +12,7 @@ sidebar_position: 3
 
 | Nowości             |  Kwota    |  Informacje |
 |------------         |-----------|--------|
-| Własna szafka|    50 zł  |   Podstawa 50kg do max 150kg za opłatą   |
+| Własna szafka|    50 zł  |   Podstawa 100kg do max 150kg za opłatą   |
 | Stół do Craftingu Dodatki|    50 zł  |   Dodatki do broni / Stół sie psuje po 10 użyciach   |
 | Stół do Craftingu Broni|    50 zł  |    Stół sie psuje po 10 użyciach   |
 | [Promocja] Custom rejestracja pojazdu|    10 zł  | Musi być 8 znaków spacja się również liczy|
