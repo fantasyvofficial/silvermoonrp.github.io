@@ -81,7 +81,7 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 6.13 Okradanie LSPD jest dozwolone w momencie kiedy jest 5 LSPD na służbie przez osoby które brały udział w danej akcji. Jeżeli okradany FP ma przy sobie gotówkę to możesz zabrać tylko połowę z kwoty jaką on przy sobie posiada.
 - 6.14 Wymiana za zatrzymanego może się odbyć jedynie za funkcjonariusza LSPD który posiada stopień Oficera lub wyższy stopień.
 - 6.15 Jeżeli nie zmienisz głosu będąc zamaskowanym możesz zostać rozpoznany po głosie przez inną osobę.
-- 6.16 W przypadku sytuacji w której odbywa się napad a nie zostały jeszcze podjęte żadne negocjacje z LSPD to napastnicy nie mają prawa opuścić terenu napadu. Chyba że minął podany czas. Zobacz Tabele!
+- 6.16 W przypadku sytuacji w której odbywa się napad a nie zostały jeszcze podjęte żadne negocjacje z LSPD to napastnicy nie mają prawa opuścić terenu napadu. Chyba że minął podany czas. Zobacz Tabele! Po opuszczeniu napadu przez napastników zakładnicy muszą zostać wypuszczeni wolno.
 - 6.17 Jeżeli robisz napad i w drodze masz gdzieś podstawiony drugi pojazd to LSPD ma prawo oddać strzały po oponach podstawionego pojazdu.
 - 6.18 Przeszukiwać można dopiero po skończonej akcji!
 - 6.19 Crime nie może prowokować policji większą grupą niz policjantów na służbie. Max 1 crime do 1 LSPD. Chyba że policja prowokuję.
