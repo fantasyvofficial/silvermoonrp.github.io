@@ -7,7 +7,7 @@ sidebar_position: 3
 - Za dotacje można otrzymać różne nagrody
 
 :::info Promocja
- Kup 2 skrzynki zapłać 10 zł mniej
+ Vip na 30 dni za 50zł
 :::
 
 | Nowości             |  Kwota    |  Informacje |
