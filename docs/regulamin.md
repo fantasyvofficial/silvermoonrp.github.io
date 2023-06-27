@@ -58,7 +58,8 @@ Przykłady nieprawidłowego użycia: XD, do której grasz, tylko z długiej potr
 - 5.2 Zakazuje się używania imion i nazwisk sławnych osób.
 - 5.3 Każda postać musi mieć realny wygląd.
 - 5.4 Zakazuje się odgrywania osób psychicznie chorych.
-- 5.5 Zakazuje się robienia dwuczłonowych imion oraz nazwisk. 
+- 5.5 Zakazuje się przenoszenia rzeczy z jednej postaci na druga. 
+- 5.6 Zakazuje się robienia dwuczłonowych imion oraz nazwisk. 
 
 ## 6. Przestępstwa:
 
