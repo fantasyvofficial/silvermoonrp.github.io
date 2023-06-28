@@ -134,6 +134,7 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 7.14 Gdy LSPD złapie jednego z przestępców musi poczekac minimalnie 5 minut zanim zabierze go na komende
 - 7.15 Gdy jest odbijanie zatrzymanego i nie stanie się nic przez 5 minut dopiero wtedy policja może uznać akcję za zakonczoną i zacząć zbierać poszkodowanych
 - 7.16 Policja ma zakaz używania samochodu lokalnego do gonienia lub podjechania do osoby gonionej (jedynym wyjątkiem jest wzięcie lokalnego pojazdu do podjechania po radiowóz)
+- 7.17 Policja ma prawo ci wpisać poszukiwanie po BW oraz odrodzenie się w szpitalu JEŻELI NIE MA DOSTĘPNYCH MEDYKÓW
 
 ## 8. Rany postaci / Character Kill:
 
