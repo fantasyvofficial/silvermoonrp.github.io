@@ -35,10 +35,10 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Zamiana Limitki       |    40 zł  | w ciagu 5 dni na serwerze |
 | Limitka szybciej      |    25 zł  | Gdy zakupisz limitke za 50zł i dokupisz tą opcje to masz ją w ciągu 24h na serwerze|
 | unban za cheat        |    200 zł |  |
-| unban z perma         |    70 zł  |  |
-| unban 30dni           |    30 zł  |  |
-| unban 14dni           |    20 zł  |  |
-| unban 7dni            |    10 zł  |  |
+| unban z 31-perm         |    70 zł  |  |
+| unban 15-30dni           |    30 zł  |  |
+| unban 8-14dni           |    20 zł  |  |
+| unban 1-7dni            |    10 zł  |  |
 | MoonPass              |    50 zł  | Dodatkowe nagrody za wbijanie poziomu /moonpass |
 | VIP              |    60 zł  | [Kliknij tutaj aby sie dowiedziec o vipie](https://silvermoonrp.github.io/docs/MoonRP/info#vip-oraz-moonpass) |
 | Custom dzwięk samochodu|    20 zł |  |
