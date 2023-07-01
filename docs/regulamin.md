@@ -144,7 +144,7 @@ B. Funkcjonariusz – pistoletów, tazerów itp.
 - 8.4 Gracz po odniesionych obrażeniach zobowiązuje się do odgrywania skutków odniesionych wcześniej obrażeń przez minimum 10 minut. Przez 2 minut po operacji nie biegamy !!!
 - 8.5 Zgodę na uśmiercenie czyjejś postaci możesz uzyskać od Administracji serwera lub jego samego.
 - 8.6 W przypadku uśmiercenia swojej postaci która należała do jakiejś grupy zorganizowanej nie masz prawa nową postacią ponownie dołączyć do tej samej grupy oraz obracać się w ich towarzystwie.
-- 8.7 Zabrania się odradzania na szpitalu podczas akcji.
+- 8.7 Zabrania się odradzania na szpitalu/weterynarzu podczas akcji.
 
 ## 9. Pojazdy i przedmioty:
 
