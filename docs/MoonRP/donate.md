@@ -12,15 +12,18 @@ sidebar_position: 3
 
 | Nowości             |  Kwota    |  Informacje |
 |------------         |-----------|--------|
-| Własna szafka|    50 zł  |   Podstawa 100kg do max 150kg za opłatą   |
-| Stół do Craftingu Dodatki|    50 zł  |   Dodatki do broni / Stół sie psuje po 10 użyciach   |
-| Stół do Craftingu Broni|    50 zł  |    Stół sie psuje po 10 użyciach   |
+
 | [Promocja] Custom rejestracja pojazdu|    10 zł  | Musi być 8 znaków spacja się również liczy|
 | [Promocja] Custom nummer telefonu|    10 zł  |  |
 | Skrzynka Broni dlugiej|    150 zł  | 2x `AKS`,`UZI`,`Flashbang`,`Micro SMG`,`AK47`,|
 | Skrzynka Broni dlugiej 2|    150 zł  | 2x `SMG`, `Gusenberg`, `Dwururka`, `Molotov`, `M4A1`|
 | Wnetrze domku|    10 zł  | Zmiana wnetrza domku|
-
+| Skrzynka Lokalnych 1|    25 zł  | `Eleghy`, `Gauntlet Hellfire`, `Infernus`, `Kuruma`, `Mamba`|
+| Skrzynka Lokalnych 2|    25 zł  | `Lectro`, `Massacro`, `Monroe`, `Hermes`, `Nero`|
+| Skrzynka Lokalnych 3|    25 zł  | `Penetrator`, `Reaper`, `Ruiner`, `Slamvan Custom`, `Stinger`|
+| Skrzynka Lokalnych 4|    25 zł  | `10F Widebody`, `Ardent`, `Banshee 900R`, `Rebla`, `Comet S2`|
+| Skrzynka Lokalnych 5|    25 zł  | `Coquette Classic`, `Coquette D10`, `Trophy Truck`, `Elegy RH8`, `Feltzer`|
+| Skrzynka Import 9|    25 zł  | `Toyota Supra GR`, `Durango`, `Nissan Silvia S15 Rocket Bunny`, `Audi RS 3`, `Toyota Tacoma`|
 
 
 :::note po Donate
@@ -66,6 +69,9 @@ zgloś się na [Ticket](https://discord.com/channels/818576305514741781/10184473
 | Skrzynka S+      |    50 zł  |`Thrax`, `BWW m8`, `LamDorghini AventadBor`, `Dentley Continental 2017`, `Rerrari Pista Spider`|
 | Skrzynka Cardealer      |    10 zł  |Znizka na pojazd z cardealera od 10% do 25%|
 | Awans w PD      |    30 zł  | 1 Ranga w góre|
+| Własna szafka|    50 zł  |   Podstawa 100kg do max 150kg za opłatą   |
+| Stół do Craftingu Dodatki|    50 zł  |   Dodatki do broni / Stół sie psuje po 10 użyciach   |
+| Stół do Craftingu Broni|    50 zł  |    Stół sie psuje po 10 użyciach   |
 | Podniesienie limitki do klasy wyżej|    150 zł  |       |
 | Custom malowanie do pojazdu|    100+ zł  | Do dogadania ponieważ niektóre pojazdy mają nie porobioną UV mape |
 | Własna firma |    100+ zł  | Firma której nie ma na serwerze |
