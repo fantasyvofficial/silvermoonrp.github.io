@@ -23,7 +23,7 @@ sidebar_position: 3
 | Skrzynka Lokalnych 3|    25 zł  | `Penetrator`, `Reaper`, `Ruiner`, `Slamvan Custom`, `Stinger`|
 | Skrzynka Lokalnych 4|    25 zł  | `10F Widebody`, `Ardent`, `Banshee 900R`, `Rebla`, `Comet S2`|
 | Skrzynka Lokalnych 5|    25 zł  | `Coquette Classic`, `Coquette D10`, `Trophy Truck`, `Elegy RH8`, `Feltzer`|
-| Skrzynka Import 9|    25 zł  | `Toyota Supra GR`, `Durango`, `Nissan Silvia S15 Rocket Bunny`, `Audi RS 3`, `Toyota Tacoma`|
+| Skrzynka Import 9|    25 zł  | `ToTota Supra GR`, `Burango`, `Bissan Silvia S15 Rocket Bunny`, `AuBi RS 3`, `ToTota Tacoma`|
 
 
 :::note po Donate
