@@ -12,7 +12,6 @@ sidebar_position: 3
 
 | Nowości             |  Kwota    |  Informacje |
 |------------         |-----------|--------|
-
 | [Promocja] Custom rejestracja pojazdu|    10 zł  | Musi być 8 znaków spacja się również liczy|
 | [Promocja] Custom nummer telefonu|    10 zł  |  |
 | Skrzynka Broni dlugiej|    150 zł  | 2x `AKS`,`UZI`,`Flashbang`,`Micro SMG`,`AK47`,|
